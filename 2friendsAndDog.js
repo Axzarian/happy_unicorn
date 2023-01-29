@@ -4,7 +4,7 @@ firstFriendSpeed = 1
 secondFriendSpeed = 2
 dogSpeed = 5
 friend = 2
-while (distance > 10){
+while (distance > 5){
     if (friend===1){
         time=distance/(firstFriendSpeed+dogSpeed)
         friend = 2
