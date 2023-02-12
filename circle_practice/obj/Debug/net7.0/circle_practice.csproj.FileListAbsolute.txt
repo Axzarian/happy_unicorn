@@ -1,0 +1,15 @@
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\circle_practice\bin\Debug\net7.0\circle_practice.exe
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\circle_practice\bin\Debug\net7.0\circle_practice.deps.json
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\circle_practice\bin\Debug\net7.0\circle_practice.runtimeconfig.json
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\circle_practice\bin\Debug\net7.0\circle_practice.dll
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\circle_practice\bin\Debug\net7.0\circle_practice.pdb
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\circle_practice\obj\Debug\net7.0\circle_practice.csproj.AssemblyReference.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\circle_practice\obj\Debug\net7.0\circle_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\circle_practice\obj\Debug\net7.0\circle_practice.AssemblyInfoInputs.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\circle_practice\obj\Debug\net7.0\circle_practice.AssemblyInfo.cs
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\circle_practice\obj\Debug\net7.0\circle_practice.csproj.CoreCompileInputs.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\circle_practice\obj\Debug\net7.0\circle_practice.dll
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\circle_practice\obj\Debug\net7.0\refint\circle_practice.dll
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\circle_practice\obj\Debug\net7.0\circle_practice.pdb
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\circle_practice\obj\Debug\net7.0\circle_practice.genruntimeconfig.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\circle_practice\obj\Debug\net7.0\ref\circle_practice.dll
