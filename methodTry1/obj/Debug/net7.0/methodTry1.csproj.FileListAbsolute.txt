@@ -1,0 +1,15 @@
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\methodTry1\obj\Debug\net7.0\methodTry1.csproj.AssemblyReference.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\methodTry1\obj\Debug\net7.0\methodTry1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\methodTry1\obj\Debug\net7.0\methodTry1.AssemblyInfoInputs.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\methodTry1\obj\Debug\net7.0\methodTry1.AssemblyInfo.cs
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\methodTry1\obj\Debug\net7.0\methodTry1.csproj.CoreCompileInputs.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\methodTry1\bin\Debug\net7.0\methodTry1.exe
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\methodTry1\bin\Debug\net7.0\methodTry1.deps.json
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\methodTry1\bin\Debug\net7.0\methodTry1.runtimeconfig.json
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\methodTry1\bin\Debug\net7.0\methodTry1.dll
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\methodTry1\bin\Debug\net7.0\methodTry1.pdb
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\methodTry1\obj\Debug\net7.0\methodTry1.dll
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\methodTry1\obj\Debug\net7.0\refint\methodTry1.dll
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\methodTry1\obj\Debug\net7.0\methodTry1.pdb
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\methodTry1\obj\Debug\net7.0\methodTry1.genruntimeconfig.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\methodTry1\obj\Debug\net7.0\ref\methodTry1.dll
