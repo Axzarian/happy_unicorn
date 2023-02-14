@@ -1,0 +1,15 @@
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\abramyanTasks\begin18\bin\Debug\net7.0\begin18.exe
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\abramyanTasks\begin18\bin\Debug\net7.0\begin18.deps.json
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\abramyanTasks\begin18\bin\Debug\net7.0\begin18.runtimeconfig.json
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\abramyanTasks\begin18\bin\Debug\net7.0\begin18.dll
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\abramyanTasks\begin18\bin\Debug\net7.0\begin18.pdb
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\abramyanTasks\begin18\obj\Debug\net7.0\begin18.csproj.AssemblyReference.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\abramyanTasks\begin18\obj\Debug\net7.0\begin18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\abramyanTasks\begin18\obj\Debug\net7.0\begin18.AssemblyInfoInputs.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\abramyanTasks\begin18\obj\Debug\net7.0\begin18.AssemblyInfo.cs
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\abramyanTasks\begin18\obj\Debug\net7.0\begin18.csproj.CoreCompileInputs.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\abramyanTasks\begin18\obj\Debug\net7.0\begin18.dll
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\abramyanTasks\begin18\obj\Debug\net7.0\refint\begin18.dll
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\abramyanTasks\begin18\obj\Debug\net7.0\begin18.pdb
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\abramyanTasks\begin18\obj\Debug\net7.0\begin18.genruntimeconfig.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\abramyanTasks\begin18\obj\Debug\net7.0\ref\begin18.dll

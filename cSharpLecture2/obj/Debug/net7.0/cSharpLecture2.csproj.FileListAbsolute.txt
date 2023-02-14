@@ -1,0 +1,15 @@
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\cSharpLecture2\obj\Debug\net7.0\cSharpLecture2.csproj.AssemblyReference.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\cSharpLecture2\obj\Debug\net7.0\cSharpLecture2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\cSharpLecture2\obj\Debug\net7.0\cSharpLecture2.AssemblyInfoInputs.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\cSharpLecture2\obj\Debug\net7.0\cSharpLecture2.AssemblyInfo.cs
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\cSharpLecture2\obj\Debug\net7.0\cSharpLecture2.csproj.CoreCompileInputs.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\cSharpLecture2\bin\Debug\net7.0\cSharpLecture2.exe
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\cSharpLecture2\bin\Debug\net7.0\cSharpLecture2.deps.json
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\cSharpLecture2\bin\Debug\net7.0\cSharpLecture2.runtimeconfig.json
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\cSharpLecture2\bin\Debug\net7.0\cSharpLecture2.dll
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\cSharpLecture2\bin\Debug\net7.0\cSharpLecture2.pdb
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\cSharpLecture2\obj\Debug\net7.0\cSharpLecture2.dll
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\cSharpLecture2\obj\Debug\net7.0\refint\cSharpLecture2.dll
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\cSharpLecture2\obj\Debug\net7.0\cSharpLecture2.pdb
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\cSharpLecture2\obj\Debug\net7.0\cSharpLecture2.genruntimeconfig.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\cSharpLecture2\obj\Debug\net7.0\ref\cSharpLecture2.dll

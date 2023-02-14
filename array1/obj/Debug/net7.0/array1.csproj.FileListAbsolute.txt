@@ -1,0 +1,15 @@
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\array1\obj\Debug\net7.0\array1.csproj.AssemblyReference.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\array1\obj\Debug\net7.0\array1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\array1\obj\Debug\net7.0\array1.AssemblyInfoInputs.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\array1\obj\Debug\net7.0\array1.AssemblyInfo.cs
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\array1\obj\Debug\net7.0\array1.csproj.CoreCompileInputs.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\array1\bin\Debug\net7.0\array1.exe
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\array1\bin\Debug\net7.0\array1.deps.json
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\array1\bin\Debug\net7.0\array1.runtimeconfig.json
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\array1\bin\Debug\net7.0\array1.dll
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\array1\bin\Debug\net7.0\array1.pdb
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\array1\obj\Debug\net7.0\array1.dll
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\array1\obj\Debug\net7.0\refint\array1.dll
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\array1\obj\Debug\net7.0\array1.pdb
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\array1\obj\Debug\net7.0\array1.genruntimeconfig.cache
+C:\Users\Алексей Михеев\Desktop\happy_unicorn\array1\obj\Debug\net7.0\ref\array1.dll
